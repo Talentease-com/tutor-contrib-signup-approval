@@ -1,0 +1,2 @@
+recursive-include tutorsignup_approval/patches *
+recursive-include tutorsignup_approval/templates *
